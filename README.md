@@ -1,16 +1,27 @@
-# 📚 DSA-with-Java
+# 📘 DSA with Java
 
-This repository contains my **daily practice of Data Structures and Algorithms (DSA) using Java**, mainly from **LeetCode**.  
-The goal of this repository is to improve problem-solving skills, maintain consistency, and prepare for technical interviews.
+This repository contains my **Data Structures and Algorithms (DSA)** practice using **Java**.  
+I am solving **LeetCode problems daily** and storing the code here to track progress and build strong fundamentals.
 
 ---
 
-## 🚀 About This Repository
+## 🚀 Current Status
 
-- 📌 Daily DSA practice using **Java**
-- 📌 Problems solved from **LeetCode**
-- 📌 Clean, readable, and well-structured code
-- 📌 Solutions organized topic-wise
-- 📌 Sample inputs & outputs included where required
+- ✅ **Language:** Java  
+- 📁 **Topic:** Arrays (current focus)  
+- 📆 **Practice Frequency:** 1 problem daily  
+- 💻 **Problems Solved:** 1
 
-This repository acts as a **learning log** and **progress tracker** for my DSA journey.
+---
+
+## 🧠 Solved Array Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 | Two Sum | Brute Force | ✅ Solved |
+| 2 | (Add your next problem) | (Approach) | (Status) |
+| 3 | (Add next problem) | (Approach) | (Status) |
+
+> As I solve more array problems, I'll update this table regularly.
+
+---
