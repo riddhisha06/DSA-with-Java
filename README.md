@@ -19,8 +19,8 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | # | Problem Name | Approach Used | Status |
 |---|--------------|----------------|--------|
 | 1 | Two Sum | Brute Force | ✅ Solved |
-| 2 | (Add your next problem) | (Approach) | (Status) |
-| 3 | (Add next problem) | (Approach) | (Status) |
+| 2 | (Problem) | (Approach) | (Status) |
+| 3 | (Problem) | (Approach) | (Status) |
 
 > As I solve more array problems, I'll update this table regularly.
 
