@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topic:** Arrays (current focus)  
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Problems Solved:** 1
+- 💻 **Problems Solved:** 2
 
 ---
 
@@ -19,7 +19,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | # | Problem Name | Approach Used | Status |
 |---|--------------|----------------|--------|
 | 1 | Two Sum | Brute Force | ✅ Solved |
-| 2 | (Problem) | (Approach) | (Status) |
+| 2 | Longest Common Prefix | Horizontal Scanning | ✅ Solved |
 | 3 | (Problem) | (Approach) | (Status) |
 
 > As I solve more array problems, I'll update this table regularly.
