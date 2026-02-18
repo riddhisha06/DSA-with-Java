@@ -20,7 +20,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 |---|--------------|----------------|--------|
 | 1 | Two Sum | Brute Force | ✅ Solved |
 | 2 | Longest Common Prefix | Horizontal Scanning | ✅ Solved |
-| 3 | (Problem) | (Approach) | (Status) |
+| 3 | Remove Duplicates from Sorted Array | Two Pointers | ✅ Solved |
 
 > As I solve more array problems, I'll update this table regularly.
 
