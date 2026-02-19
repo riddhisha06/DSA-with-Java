@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topic:** Arrays (current focus)  
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Problems Solved:** 3
+- 💻 **Problems Solved:** 4
 
 ---
 
@@ -21,6 +21,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 1 | Two Sum | Brute Force | ✅ Solved |
 | 2 | Longest Common Prefix | Horizontal Scanning | ✅ Solved |
 | 3 | Remove Duplicates from Sorted Array | Two Pointers | ✅ Solved |
+| 4 | Remove Element | Two Pointers (Swap-with-End) | ✅ Solved |
 
 > As I solve more array problems, I'll update this table regularly.
 
