@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topic:** Arrays (current focus)  
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Problems Solved:** 5
+- 💻 **Problems Solved:** 6
 
 ---
 
@@ -23,7 +23,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 3 | Remove Duplicates from Sorted Array | Two Pointers | ✅ Solved |
 | 4 | Remove Element | Two Pointers (Swap-with-End) | ✅ Solved |
 | 5 | Search Insert Position | Binary Search | ✅ Solved |
-| 6 |  |  |  |
+| 6 | Plus One | Elementary Math | ✅ Solved |
 
 > As I solve more array problems, I'll update this table regularly.
 
