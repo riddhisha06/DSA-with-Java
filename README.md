@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topic:** Arrays (current focus)  
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Problems Solved:** 9
+- 💻 **Problems Solved:** 10
 
 ---
 
@@ -27,7 +27,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 7 | Merge Sorted Array | Two Pointers (From the End) | ✅ Solved |
 | 8 | Find Minimum in Rotated Sorted Array | Linear Search | ✅ Solved |
 | 9 | Move Zeroes | Two Pointer | ✅ Solved |
-| 10 |  |  | ✅ Solved |
+| 10 | Sort an Array | Merge Sort | ✅ Solved |
 
 > As I solve more array problems, I'll update this table regularly.
 
