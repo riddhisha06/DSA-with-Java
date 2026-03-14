@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Problems Solved:** 11
+- 💻 **Total Problems Solved:** 12
 
 ---
 
@@ -36,7 +36,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 
 | # | Problem Name | Approach Used | Status |
 |---|--------------|----------------|--------|
-| 1 |  |  | ✅ Solved |
+| 1 | Valid Palindrome | String Cleaning + Two Pointers | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
