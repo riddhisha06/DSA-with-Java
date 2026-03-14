@@ -8,7 +8,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 ## 🚀 Current Status
 
 - ✅ **Language:** Java  
-- 📁 **Topic:** Arrays (current focus)  
+- 📁 **Topics:** Arrays, Strings
 - 📆 **Practice Frequency:** 1 problem daily  
 - 💻 **Problems Solved:** 11
 
@@ -30,6 +30,14 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 10 | Sort an Array | Merge Sort | ✅ Solved |
 | 11 | Best Time to Buy and Sell Stock | Greedy / Single Pass | ✅ Solved |
 
-> As I solve more array problems, I'll update this table regularly.
+---
+
+## 🧠 Solved String Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 |  |  | ✅ Solved |
+
+> As I solve more problems, I'll update the tables regularly.
 
 ---
