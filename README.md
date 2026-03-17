@@ -8,9 +8,9 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 ## 🚀 Current Status
 
 - ✅ **Language:** Java  
-- 📁 **Topics:** Arrays, Strings
+- 📁 **Topics:** Arrays, Strings, Bit Manipulation
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 14
+- 💻 **Total Problems Solved:** 16
 
 ---
 
@@ -39,6 +39,15 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 1 | Valid Palindrome | String Cleaning + Two Pointers | ✅ Solved |
 | 2 | Valid Anagram | Character Frequency Count | ✅ Solved |
 | 3 | Reverse String | Two Pointers | ✅ Solved |
+| 4 | Find the Index of the First Occurrence in a String | Sliding Window / Brute Force | ✅ Solved |
+
+---
+
+## 🧠 Solved Bit Manipulation Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 | Single Number | XOR Technique | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
