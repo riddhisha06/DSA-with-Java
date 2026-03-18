@@ -8,9 +8,9 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 ## 🚀 Current Status
 
 - ✅ **Language:** Java  
-- 📁 **Topics:** Arrays, Strings, Bit Manipulation
+- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 16
+- 💻 **Total Problems Solved:** 17
 
 ---
 
@@ -48,6 +48,14 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | # | Problem Name | Approach Used | Status |
 |---|--------------|----------------|--------|
 | 1 | Single Number | XOR Technique | ✅ Solved |
+
+---
+
+## 🧠 Solved Math Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 | Palindrome Number | Mathematical (Reverse Number Method) | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
