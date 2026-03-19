@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 18
+- 💻 **Total Problems Solved:** 19
 
 ---
 
@@ -39,6 +39,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 2 | Valid Anagram | Character Frequency Count | ✅ Solved |
 | 3 | Reverse String | Two Pointers | ✅ Solved |
 | 4 | Find the Index of the First Occurrence in a String | Sliding Window / Brute Force | ✅ Solved |
+| 5 | Length of Last Word | Reverse Traversal | ✅ Solved |
 
 ---
 
