@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 21
+- 💻 **Total Problems Solved:** 22
 
 ---
 
@@ -29,6 +29,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 9 | Sort an Array | Merge Sort | ✅ Solved |
 | 10 | Best Time to Buy and Sell Stock | Greedy / Single Pass | ✅ Solved |
 | 11 | Majority Element | Boyer-Moore Voting Algorithm | ✅ Solved |
+| 12 | Rotate Array | Reversal Algorithm | ✅ Solved |
 
 ---
 
