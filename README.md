@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 25
+- 💻 **Total Problems Solved:** 26
 
 ---
 
@@ -32,7 +32,8 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 12 | Rotate Array | Reversal Algorithm | ✅ Solved |
 | 13 | Product of Array Except Self | Optimized Prefix + Suffix | ✅ Solved |
 | 14 | Jump Game | Greedy Approach | ✅ Solved |
-| 15 | Jump Game II | Greedy (Range / Level - Based) Approach | ✅ Solved |
+| 15 | Jump Game II | Greedy (Range / Level - Based) | ✅ Solved |
+| 16 | Best Time to Buy and Sell Stock II | Greedy | ✅ Solved |
 
 ---
 
