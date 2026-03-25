@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 26
+- 💻 **Total Problems Solved:** 27
 
 ---
 
@@ -62,6 +62,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | # | Problem Name | Approach Used | Status |
 |---|--------------|----------------|--------|
 | 1 | Palindrome Number | Mathematical (Reverse Number Method) | ✅ Solved |
+| 2 | Pow(x, n) | Binary Exponentiation (Fast Power) | ✅ Solved |
 
 ---
 
