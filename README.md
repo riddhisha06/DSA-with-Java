@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 28
+- 💻 **Total Problems Solved:** 29
 
 ---
 
@@ -55,6 +55,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 |---|--------------|----------------|--------|
 | 1 | Single Number | XOR Technique | ✅ Solved |
 | 2 | Single Number II | Bit Manipulation (Finite State Machine) | ✅ Solved |
+| 3 | Reverse Bits | Bit Manipulation | ✅ Solved |
 
 ---
 
