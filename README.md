@@ -46,6 +46,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 3 | Reverse String | Two Pointers | ✅ Solved |
 | 4 | Find the Index of the First Occurrence in a String | Sliding Window / Brute Force | ✅ Solved |
 | 5 | Length of Last Word | Reverse Traversal | ✅ Solved |
+| 6 | Roman to Integer | Right-to-Left Traversal with Subtraction Logic | ✅ Solved |
 
 ---
 
