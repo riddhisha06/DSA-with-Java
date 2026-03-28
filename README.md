@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 29
+- 💻 **Total Problems Solved:** 30
 
 ---
 
