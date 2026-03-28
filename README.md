@@ -31,7 +31,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 11 | Majority Element | Boyer-Moore Voting Algorithm | ✅ Solved |
 | 12 | Rotate Array | Reversal Algorithm | ✅ Solved |
 | 13 | Product of Array Except Self | Optimized Prefix + Suffix | ✅ Solved |
-| 14 | Jump Game | Greedy Approach | ✅ Solved |
+| 14 | Jump Game | Greedy | ✅ Solved |
 | 15 | Jump Game II | Greedy (Range / Level - Based) | ✅ Solved |
 | 16 | Best Time to Buy and Sell Stock II | Greedy | ✅ Solved |
 
