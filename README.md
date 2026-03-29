@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 30
+- 💻 **Total Problems Solved:** 31
 
 ---
 
@@ -76,6 +76,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 1 | Search Insert Position | Binary Search | ✅ Solved |
 | 2 | Find Peak Element | Binary Search | ✅ Solved |
 | 3 | Search in Rotated Sorted Array | Modified Binary Search | ✅ Solved |
+| 4 | Find First and Last Position of Element in Sorted Array | Binary Search | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
