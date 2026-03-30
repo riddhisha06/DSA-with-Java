@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 31
+- 💻 **Total Problems Solved:** 32
 
 ---
 
@@ -47,6 +47,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 4 | Find the Index of the First Occurrence in a String | Sliding Window / Brute Force | ✅ Solved |
 | 5 | Length of Last Word | Reverse Traversal | ✅ Solved |
 | 6 | Roman to Integer | Right-to-Left Traversal with Subtraction Logic | ✅ Solved |
+| 7 | Integer to Roman | Greedy Algorithm | ✅ Solved |
 
 ---
 
