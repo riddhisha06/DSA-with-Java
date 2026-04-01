@@ -8,7 +8,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 ## 🚀 Current Status
 
 - ✅ **Language:** Java  
-- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search
+- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
 - 📆 **Practice Frequency:** 1 problem daily  
 - 💻 **Total Problems Solved:** 34
 
@@ -58,6 +58,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 1 | Single Number | XOR Technique | ✅ Solved |
 | 2 | Single Number II | Bit Manipulation (Finite State Machine) | ✅ Solved |
 | 3 | Reverse Bits | Bit Manipulation | ✅ Solved |
+| 4 | Divide Two Integers | Bit Manipulation / Binary Long Division | ✅ Solved |
 
 ---
 
@@ -78,6 +79,14 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 2 | Find Peak Element | Binary Search | ✅ Solved |
 | 3 | Search in Rotated Sorted Array | Modified Binary Search | ✅ Solved |
 | 4 | Find First and Last Position of Element in Sorted Array | Binary Search | ✅ Solved |
+
+---
+
+## 🧠 Solved Stack Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 | Valid Parentheses | Stack (LIFO) | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
