@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 35
+- 💻 **Total Problems Solved:** 36
 
 ---
 
@@ -59,6 +59,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 2 | Single Number II | Bit Manipulation (Finite State Machine) | ✅ Solved |
 | 3 | Reverse Bits | Bit Manipulation | ✅ Solved |
 | 4 | Divide Two Integers | Bit Manipulation / Binary Long Division | ✅ Solved |
+| 5 | Add Binary | Bit-by-Bit Addition (Binary Addition) | ✅ Solved |
 
 ---
 
