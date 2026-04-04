@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 36
+- 💻 **Total Problems Solved:** 37
 
 ---
 
@@ -34,6 +34,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 14 | Jump Game | Greedy | ✅ Solved |
 | 15 | Jump Game II | Greedy (Range / Level - Based) | ✅ Solved |
 | 16 | Best Time to Buy and Sell Stock II | Greedy | ✅ Solved |
+| 17 | Remove Duplicates from Sorted Array II | Two Pointers | ✅ Solved |
 
 ---
 
