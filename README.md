@@ -49,6 +49,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 5 | Length of Last Word | Reverse Traversal | ✅ Solved |
 | 6 | Roman to Integer | Right-to-Left Traversal with Subtraction Logic | ✅ Solved |
 | 7 | Integer to Roman | Greedy Algorithm | ✅ Solved |
+| 8 | Valid Number | Greedy String Parsing using Flags (State Tracking) | ✅ Solved |
 
 ---
 
