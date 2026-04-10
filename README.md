@@ -73,6 +73,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 1 | Palindrome Number | Mathematical (Reverse Number Method) | ✅ Solved |
 | 2 | Pow(x, n) | Binary Exponentiation (Fast Power) | ✅ Solved |
 | 3 | Sqrt(x) | Binary Search | ✅ Solved |
+| 4 | Nim Game | Modulo Approach | ✅ Solved |
 
 ---
 
