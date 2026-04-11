@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 40
+- 💻 **Total Problems Solved:** 41
 
 ---
 
@@ -74,6 +74,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 2 | Pow(x, n) | Binary Exponentiation (Fast Power) | ✅ Solved |
 | 3 | Sqrt(x) | Binary Search | ✅ Solved |
 | 4 | Nim Game | Modulo Approach | ✅ Solved |
+| 5 | Factorial Trailing Zeroes | Logarithmic Approach | ✅ Solved |
 
 ---
 
