@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 42
+- 💻 **Total Problems Solved:** 43
 
 ---
 
@@ -50,6 +50,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 6 | Roman to Integer | Right-to-Left Traversal with Subtraction Logic | ✅ Solved |
 | 7 | Integer to Roman | Greedy Algorithm | ✅ Solved |
 | 8 | Valid Number | Greedy String Parsing using Flags (State Tracking) | ✅ Solved |
+| 9 | Excel Sheet Column Title | Modified Base-26 Conversion | ✅ Solved |
 
 ---
 
