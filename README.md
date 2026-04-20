@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 46
+- 💻 **Total Problems Solved:** 47
 
 ---
 
@@ -78,6 +78,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 4 | Nim Game | Modulo Approach | ✅ Solved |
 | 5 | Factorial Trailing Zeroes | Logarithmic Approach | ✅ Solved |
 | 6 | Reverse Integer | Digit Extraction and Reversal | ✅️ Solved |
+| 7 | Arranging Coins | Mathematical | ✅️ Solved |
 
 ---
 
