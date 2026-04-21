@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 47
+- 💻 **Total Problems Solved:** 48
 
 ---
 
@@ -100,6 +100,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | # | Problem Name | Approach Used | Status |
 |---|--------------|----------------|--------|
 | 1 | Valid Parentheses | Stack (LIFO) | ✅ Solved |
+| 2 | Implement Stack using Queues | Simulating stack using queues | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
