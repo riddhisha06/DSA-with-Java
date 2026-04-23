@@ -8,9 +8,9 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 ## 🚀 Current Status
 
 - ✅ **Language:** Java  
-- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack
+- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 49
+- 💻 **Total Problems Solved:** 50
 
 ---
 
@@ -102,6 +102,14 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 |---|--------------|----------------|--------|
 | 1 | Valid Parentheses | Stack (LIFO) | ✅ Solved |
 | 2 | Implement Stack using Queues | Simulating stack using queues | ✅ Solved |
+
+---
+
+## 🧠 Solved Linked List Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 | Merge Two Sorted Lists | Two Pointer Merge Technique | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
