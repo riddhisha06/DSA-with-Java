@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 52
+- 💻 **Total Problems Solved:** 53
 
 ---
 
@@ -112,6 +112,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | # | Problem Name | Approach Used | Status |
 |---|--------------|----------------|--------|
 | 1 | Merge Two Sorted Lists | Two Pointer Merge Technique | ✅ Solved |
+| 2 | Add Two Numbers | Digit-by-Digit Addition | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
