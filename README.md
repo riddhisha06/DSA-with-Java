@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 54
+- 💻 **Total Problems Solved:** 55
 
 ---
 
@@ -68,6 +68,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 5 | Add Binary | Bit-by-Bit Addition (Binary Addition) | ✅ Solved |
 | 6 | Number of 1 Bits | Bit Manipulation | ✅ Solved |
 | 7 | Power of Two | Bit Manipulation | ✅ Solved |
+| 8 | Counting Bits | Dynamic Programming + Bit Manipulation | ✅ Solved |
 
 ---
 
