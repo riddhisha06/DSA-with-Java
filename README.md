@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 56
+- 💻 **Total Problems Solved:** 57
 
 ---
 
@@ -116,6 +116,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 1 | Merge Two Sorted Lists | Two Pointer Merge Technique | ✅ Solved |
 | 2 | Add Two Numbers | Digit-by-Digit Addition | ✅ Solved |
 | 3 | Delete Node in a Linked List | Overwrite + Skip Technique | ✅ Solved |
+| 4 | Reverse Linked List | 3-Pointer Iterative Technique | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
