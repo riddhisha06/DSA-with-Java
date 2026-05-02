@@ -84,6 +84,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 5 | Factorial Trailing Zeroes | Logarithmic Approach | ✅ Solved |
 | 6 | Reverse Integer | Digit Extraction and Reversal | ✅️ Solved |
 | 7 | Arranging Coins | Mathematical | ✅️ Solved |
+| 8 | Rotated Digits | Digit Checking Approach | ✅️ Solved |
 
 ---
 
