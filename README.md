@@ -85,6 +85,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 6 | Reverse Integer | Digit Extraction and Reversal | ✅️ Solved |
 | 7 | Arranging Coins | Mathematical | ✅️ Solved |
 | 8 | Rotated Digits | Digit Checking Approach | ✅️ Solved |
+| 9 | Climbing Stairs | Dynamic Programming (Fibonacci Pattern) | ✅️ Solved |
 
 ---
 
