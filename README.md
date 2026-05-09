@@ -8,9 +8,9 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 ## 🚀 Current Status
 
 - ✅ **Language:** Java  
-- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List
+- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List, Matrix
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 61
+- 💻 **Total Problems Solved:** 63
 
 ---
 
@@ -55,6 +55,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 9 | Excel Sheet Column Title | Modified Base-26 Conversion | ✅ Solved |
 | 10 | Valid Digit Number | String Manipulation | ✅ Solved |
 | 11 | Multiply Strings | Digit-by-Digit Multiplication | ✅ Solved |
+| 12 | Rotate String | String Concatenation | ✅ Solved |
 
 ---
 
@@ -120,6 +121,15 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 2 | Add Two Numbers | Digit-by-Digit Addition | ✅ Solved |
 | 3 | Delete Node in a Linked List | Overwrite + Skip Technique | ✅ Solved |
 | 4 | Reverse Linked List | 3-Pointer Iterative Technique | ✅ Solved |
+
+---
+
+## 🧠 Solved Matrix Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 | Rotating the Box | Simulation + Matrix Rotation | ✅ Solved |
+| 2 | Rotate Image | Transpose + Reverse Rows | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
