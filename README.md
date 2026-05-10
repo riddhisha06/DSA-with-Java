@@ -8,9 +8,9 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 ## 🚀 Current Status
 
 - ✅ **Language:** Java  
-- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List, Matrix
+- 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List, Matrix, HashMap
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 63
+- 💻 **Total Problems Solved:** 64
 
 ---
 
@@ -130,6 +130,14 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 |---|--------------|----------------|--------|
 | 1 | Rotating the Box | Simulation + Matrix Rotation | ✅ Solved |
 | 2 | Rotate Image | Transpose + Reverse Rows | ✅ Solved |
+
+---
+
+## 🧠 Solved HashMap Problems
+
+| # | Problem Name | Approach Used | Status |
+|---|--------------|----------------|--------|
+| 1 | Contains Duplicate II | HashMap | ✅ Solved |
 
 > As I solve more problems, I'll update the tables regularly.
 
