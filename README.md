@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List, Matrix, HashMap
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 66
+- 💻 **Total Problems Solved:** 67
 
 ---
 
@@ -37,6 +37,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 17 | Remove Duplicates from Sorted Array II | Two Pointers | ✅ Solved |
 | 18 | Sort Colors | Dutch National Flag Algorithm | ✅ Solved |
 | 19 | Contains Duplicate | HashSet | ✅ Solved |
+| 20 | Minimum Time Visiting All Points | Greedy / Geometry Based Approach | ✅ Solved |
 
 ---
 
