@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List, Matrix, HashMap
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 67
+- 💻 **Total Problems Solved:** 68
 
 ---
 
@@ -124,6 +124,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 3 | Delete Node in a Linked List | Overwrite + Skip Technique | ✅ Solved |
 | 4 | Reverse Linked List | 3-Pointer Iterative Technique | ✅ Solved |
 | 5 | Rotate List | Circular Linked List Approach | ✅ Solved |
+| 6 | Remove Duplicates from Sorted List | Iterative Traversal | ✅ Solved |
 
 ---
 
