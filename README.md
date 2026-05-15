@@ -10,7 +10,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 - ✅ **Language:** Java  
 - 📁 **Topics:** Arrays, Strings, Bit Manipulation, Math, Binary Search, Stack, Linked List, Matrix, HashMap
 - 📆 **Practice Frequency:** 1 problem daily  
-- 💻 **Total Problems Solved:** 68
+- 💻 **Total Problems Solved:** 69
 
 ---
 
@@ -58,6 +58,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 11 | Multiply Strings | Digit-by-Digit Multiplication | ✅ Solved |
 | 12 | Rotate String | String Concatenation | ✅ Solved |
 | 13 | Excel Sheet Column Number | Base-26 Conversion | ✅️ Solved |
+| 14 | Longest Substring Without Repeating Characters | Sliding Window + HashSet | ✅️ Solved |
 
 ---
 
