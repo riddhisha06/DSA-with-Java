@@ -38,6 +38,7 @@ I am solving **LeetCode problems daily** and storing the code here to track prog
 | 18 | Sort Colors | Dutch National Flag Algorithm | ✅ Solved |
 | 19 | Contains Duplicate | HashSet | ✅ Solved |
 | 20 | Minimum Time Visiting All Points | Greedy / Geometry Based Approach | ✅ Solved |
+| 21 | Container With Most Water | Two Pointer | ✅ Solved |
 
 ---
 
